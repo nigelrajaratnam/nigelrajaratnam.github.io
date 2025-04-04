@@ -17,7 +17,7 @@
 	<!--  Define the allowed format for the Phone number with a regular exp.  -->
 	<xsd:simpleType name="PhoneType">
 		<xsd:restriction base="xsd:string">
-			<xsd:pattern value="\d{3}\-\d{3} \d{4}"/>
+			<xsd:pattern value="\d{3}\-\d{3}\-\d{4}"/>
 		</xsd:restriction>
 	</xsd:simpleType>
 	<xsd:complexType name="AddressType">
