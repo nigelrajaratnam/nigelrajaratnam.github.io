@@ -33,6 +33,7 @@
 	</Hotel>
 	<Hotel>
 		<Name>The McCormick Scottsdale</Name>
+		<Name>The McCormicks Scottsdale</Name>
 		<Phone>800-535-1865</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>7421</Number>
@@ -43,7 +44,6 @@
 	</Hotel>
 	<Hotel>
 		<Name>Hilton Milwaukee</Name>
-		<Name>Hiltons Milwaukee</Name>
 		<Phone>414-271-7250</Phone>
 		<Address NearstAirport="General Mitchell International Airport">
 			<Number>509</Number>
