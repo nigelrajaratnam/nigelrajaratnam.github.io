@@ -22,11 +22,11 @@
 	</xsd:simpleType>
 	<xsd:complexType name="AddressType">
 		<xsd:sequence>
-			<xsd:element name="Number" type="xsd:int" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Number" type="xsd:integer" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="Street" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="City" type="xsd:string" minOccurs="1" maxOccurs="1"/>
 			<xsd:element name="State" type="xsd:string" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="Zip" type="xsd:int" minOccurs="1" maxOccurs="1"/>
+			<xsd:element name="Zip" type="xsd:integer" minOccurs="1" maxOccurs="1"/>
 		</xsd:sequence>
 		<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
 	</xsd:complexType>
