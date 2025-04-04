@@ -12,39 +12,39 @@
 			<Zip>85281</Zip>
 		</Address>
 	</Hotel>
-  <Hotel Rating="4.1">
-    <Name>Pod Times Square</Name>
-    <Phone>844-763-7666</Phone>
-    <Address NearstAirport="New York La Guardia Airport">
-      <Number>400</Number>
-      <Street>W. 42nd St</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10036</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.1">
-    <Name>Freehand Los Angeles</Name>
-    <Phone>213-612-0021</Phone>
-    <Address NearstAirport="Hawthorne Airport">
-      <Number>416</Number>
-      <Street>W. 8th St</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90014</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>The McCormick Scottsdale</Name>
-    <Phone>800-535-1865</Phone>
-    <Address NearstAirport="Sky Harbor">
-      <Number>7421</Number>
-      <Street>N. Scottsdale Rd</Street>
-      <City>Scottsdale</City>
-      <State>AZ</State>
-      <Zip>85253</Zip>
-    </Address>
-  </Hotel>
+  	<Hotel Rating="4.1">
+    		<Name>Pod Times Square</Name>
+    		<Phone>844-763-7666</Phone>
+    		<Address NearstAirport="New York La Guardia Airport">
+      			<Number>400</Number>
+      			<Street>W. 42nd St</Street>
+      			<City>New York</City>
+      			<State>NY</State>
+      			<Zip>10036</Zip>
+    		</Address>
+  	</Hotel>
+  	<Hotel Rating="4.1">
+   		<Name>Freehand Los Angeles</Name>
+    		<Phone>213-612-0021</Phone>
+    		<Address NearstAirport="Hawthorne Airport">
+      			<Number>416</Number>
+      			<Street>W. 8th St</Street>
+      			<City>Los Angeles</City>
+      			<State>CA</State>
+      			<Zip>90014</Zip>
+    		</Address>
+  	</Hotel>
+  	<Hotel>
+    		<Name>The McCormick Scottsdale</Name>
+    		<Phone>800-535-1865</Phone>
+    		<Address NearstAirport="Sky Harbor">
+      			<Number>7421</Number>
+      			<Street>N. Scottsdale Rd</Street>
+      			<City>Scottsdale</City>
+      			<State>AZ</State>
+      			<Zip>85253</Zip>
+    		</Address>
+  	</Hotel>
 	<Hotel>
 		<Name>Hilton Milwaukee</Name>
 		<Phone>414-271-7250</Phone>
