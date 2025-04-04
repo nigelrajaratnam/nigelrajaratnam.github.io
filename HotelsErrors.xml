@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Pod Times Square</Name>
+		<Phone>844-763-7666</Phone>
+		<Address NearstAirport="New York La Guardia Airport">
+			<Number>400</Number>
+			<Street>W. 42nd St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10036</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Freehand Los Angeles</Name>
+		<Address NearstAirport="Hawthorne Airport">
+			<Number>416</Number>
+			<Street>W. 8th St</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90014</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The McCormick Scottsdale</Name>
+		<Phone>800-535-1865</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>7421</Number>
+			<Street>N. Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton Milwaukee</Name>
+		<Name>Hiltons Milwaukee</Name>
+		<Phone>414-271-7250</Phone>
+		<Address NearstAirport="General Mitchell International Airport">
+			<Number>509</Number>
+			<Street>W. Wisconsin Ave</Street>
+			<City>Milwaukee</City>
+			<State>WI</State>
+			<Zip>53203</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Sugar Beach Resort Hotel</Name>
+		<Phone>231-938-0100</Phone>
+		<Address NearstAirport="Cherry Capital Airport">
+			<Number>1773</Number>
+			<Street>US-31 North</Street>
+			<City>Traverse City</City>
+			<State>MI</State>
+			<Zip>49686</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>La Jolla Cove Hotel and Suites</Name>
+		<Phone>858-459-2621</Phone>
+		<Address NearstAirport="San Diego International Airport">
+			<Number>1155</Number>
+			<Street>Coast Blvd</Street>
+			<City>La Jolla</City>
+			<State>CA</State>
+			<Zip>92037</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Hotel Gibbs Downtown San Antonio Riverwalk</Name>
+		<Phone>210-933-2000</Phone>
+		<Address NearstAirport="San Antonio Airport">
+			<Number>105</Number>
+			<Street>N. Alamo St</Street>
+			<City>San Antonio</City>
+			<State>TX</State>
+			<Zip>78205</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Fairmont Dallas</Name>
+		<Phone>214-720-2020</Phone>
+		<Phone>866-540-4427</Phone>
+		<Address NearstAirport="Dallas Love Field">
+			<Number>1717</Number>
+			<Street>N. Akard St</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Marriott Marquis Houston</Name>
+		<Phone>713-654-1777</Phone>
+		<Address NearstAirport="Houston Hobby Apt Airport">
+			<Number>1777</Number>
+			<Street>Walker St</Street>
+			<City>Houston</City>
+			<State>TX</State>
+			<Zip>77010</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Hotel Washington</Name>
+		<Phone>202-661-2400</Phone>
+		<Address NearstAirport="Ronald Reagan Washington National Airport">
+			<Number>515</Number>
+			<Street>15th St NW</Street>
+			<City>Washington</City>
+			<State>DC</State>
+			<Zip>20004</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
