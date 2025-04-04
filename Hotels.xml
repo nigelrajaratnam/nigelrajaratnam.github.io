@@ -112,4 +112,15 @@
 			<Zip>77010</Zip>
 		</Address>
 	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Hotel Washington</Name>
+		<Phone>202-661-2400</Phone>
+		<Address NearstAirport="Ronald Reagan Washington National Airport">
+			<Number>515</Number>
+			<Street>15th St NW</Street>
+			<City>Washington</City>
+			<State>DC</State>
+			<Zip>20004</Zip>
+		</Address>
+	</Hotel>
 </Hotels>
